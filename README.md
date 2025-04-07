@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/343144c5-f71a-4a02-9605-c2e01b2d7775)# _🎉 Event Website (Frontend)_
+# _🎉 Event Website (Frontend)_
 
 # _🚀 Overview:_
 
@@ -34,6 +34,7 @@ Libraries/Tools (optional) – Font Awesome, Google Fonts, AOS (Animate on Scrol
 
 ![image](https://github.com/user-attachments/assets/90e85eb6-9725-48b1-ac69-4fa6d555d42a)
 ![image](https://github.com/user-attachments/assets/f3567c05-8271-4fc8-a181-d3aaf1e0866a)
+![image](https://github.com/user-attachments/assets/343144c5-f71a-4a02-9605-c2e01b2d7775)
 ![image](https://github.com/user-attachments/assets/7446a0e7-163c-478e-ba1e-3eadeb0e5a07)
 
 
