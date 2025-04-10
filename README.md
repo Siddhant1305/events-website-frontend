@@ -14,7 +14,7 @@ The Event Website is a modern, fully responsive frontend project designed to sho
 
 📝 Registration Form (frontend only) with form validation
 
-📍 Location & Venue Info with embedded map
+📍 Location & Venue Info with an embedded map
 
 📱 Responsive Design that adapts to all screen sizes
 
