@@ -6,21 +6,21 @@ The Event Website is a modern, fully responsive frontend project designed to sho
 
 # _✨ Features:_
 
-🖼️ Landing Page with animated banners and event highlights
+🖼️ Landing Page with animated banners and event highlights.
 
-📅 Event Schedule section with a day-wise breakdown
+📅 Event Schedule section with a day-wise breakdown.
 
-🧑‍💼 Speakers/Guests showcase with profile cards
+🧑‍💼 Speakers/Guests showcase with profile cards.
 
-📝 Registration Form (frontend only) with form validation
+📝 Registration Form (frontend only) with form validation.
 
-📍 Location & Venue Info with an embedded map
+📍 Location & Venue Info with an embedded map.
 
-📱 Responsive Design that adapts to all screen sizes
+📱 Responsive Design that adapts to all screen sizes.
 
-🎨 Modern UI/UX with smooth transitions and hover effects
+🎨 Modern UI/UX with smooth transitions and hover effects.
 
-🌐 Social Media Integration with icon links
+🌐 Social Media Integration with icon links.
 
 # _🛠️ Tech Stack:_
 
