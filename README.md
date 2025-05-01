@@ -24,11 +24,11 @@ The Event Website is a modern, fully responsive frontend project designed to sho
 
 # _🛠️ Tech Stack:_
 
-HTML5 – Semantic structure
+HTML5 – Semantic structure.
 
-CSS3 – Styling, animations, layout (Flexbox/Grid)
+CSS3 – Styling, animations, layout (Flexbox/Grid).
 
-JavaScript (Vanilla) – Interactivity, form validation
+JavaScript (Vanilla) – Interactivity, form validation.
 
 Libraries/Tools (optional) – Font Awesome, Google Fonts, AOS (Animate on Scroll)
 
